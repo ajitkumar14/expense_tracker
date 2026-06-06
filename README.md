@@ -59,5 +59,4 @@ Income added successfully!
 * Graphical User Interface (GUI)
 
 ## Author
-
-Ajit Kumar
+AJIT KUMAR
