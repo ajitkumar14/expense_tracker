@@ -18,6 +18,8 @@ A simple Python-based Expense Tracker that helps users manage their income and e
 
 1. Clone the repository:
 
+
+
 ```bash
 git clone https://github.com/ajitkumar14/expense_tracker.git
 ```
