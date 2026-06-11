@@ -9,7 +9,7 @@ while True:
     print("5. Exit")
 
     choice = input("Enter your choice: ")
-
+# check condition is ight or not
     if choice == "1":
         amount = float(input("Enter income amount: "))
         transactions.append(amount)
