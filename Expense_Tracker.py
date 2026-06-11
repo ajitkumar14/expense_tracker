@@ -1,5 +1,5 @@
 transactions = []
-
+# loop condition
 while True:
     print("\n===== Expense Tracker =====")
     print("1. Add Income")
